@@ -1,0 +1,36 @@
+torch>=2.6.0
+torchaudio>=2.6.0
+torchvision>=0.21.0
+
+transformers==4.53.1
+huggingface-hub==0.33.2
+tokenizers==0.21.2
+safetensors==0.5.3
+# sentencepiece==0.2.0 (Removed due to Python 3.13 build issues)
+faiss-cpu==1.11.0
+sentence-transformers==5.0.0
+scikit-learn>=1.6.0
+numpy>=2.1.0
+scipy>=1.15.0
+langchain==0.3.26
+langchain-core==0.3.67
+langchain-community==0.3.27
+langchain-huggingface==0.3.0
+langchain-ollama==0.3.3
+ollama==0.5.1
+
+#File parsing
+pandas==2.3.0
+pdfminer.six==20250506
+python-docx==1.2.0
+python-pptx==1.0.2
+openpyxl==3.1.5
+xlsxwriter==3.2.5
+pillow==11.3.0
+
+#Utilities
+tqdm==4.67.1
+packaging==24.2
+requests==2.32.4
+regex==2024.11.6
+watchdog==6.0.0
