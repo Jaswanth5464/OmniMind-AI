@@ -49,6 +49,7 @@
 - **Zero Telemetry / No API Keys**: Works completely offline without requiring any subscription, API key, or internet connection.
 
 ---
+<img width="746" height="462" alt="image" src="https://github.com/user-attachments/assets/a93aa8e8-1c3f-47cd-b643-2f578dbc39f9" />
 
 ## 🗺️ System Architecture
 
